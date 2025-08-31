@@ -1,0 +1,6 @@
+plotly~=6.3.0
+circuitsvis~=1.43.3
+torch~=2.8.0
+einops~=0.8.1
+tqdm~=4.67.1
+jaxtyping~=0.3.2
